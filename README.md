@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
+![](https://visitor-badge.glitch.me/badge?page_id=padrone1225.padrone1225)
 
 <h3 align="center">
 Hi there, I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> 👋
