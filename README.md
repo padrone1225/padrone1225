@@ -1,3 +1,9 @@
+![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
+
+<h3 align="center">
+Hi there, I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> 👋
+</h3>
+
 # 📊 My Stats
 
 [![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=padrone1225&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/padrone1225)
