@@ -1,9 +1,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=padrone1225.padrone1225)
 
 <h3 align="center">
-Hi there, I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> 👋
+Hi there, I'm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" /><a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a>
 </h3>
 
+### I am a FullStack Developer, more into Nextjs and React at the moment. (Open for Work!, feel free to contact me.)
+
+Currently, i am learning Solidity and RUST. 🤓
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
