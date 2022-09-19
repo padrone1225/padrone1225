@@ -25,15 +25,20 @@ Currently, i am learning Solidity and RUST. 🤓
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=padrone1225&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&layout=compact&langs_count=7&theme=github_dark"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&layout=compact&langs_count=7&theme=github_dark"/> -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=padrone1225&&theme=tokyonight" alt="padrone1225" />
 
+<!-- <img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=padrone1225&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="padrone1225" /> -->
+
 <br>
+
+<!-- ## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=padrone1225&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=padrone1225&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&hide=TeX&layout=compact)
