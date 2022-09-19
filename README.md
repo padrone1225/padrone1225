@@ -50,7 +50,7 @@ Currently, i am learning Solidity and RUST. 🤓
 <div><img height="150px" src="https://github-readme-stats.vercel.app/api?username=padrone1225&sshow_icons=true&theme=gotham&count_private=true" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=padrone1225&exclude_repo=ishrimp,traderapp,tradingapp,learning.test&layout=compact&theme=monokai&count_private=true" /></div>
 <br />
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&theme=blue-green)
+[![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&theme=blue-green)](https://github.com/padrone1225)
 
 <!-- [![TechnoTim's github stats](https://github-readme-stats.vercel.app/api?username=padrone1225&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/padrone1225) -->
 
