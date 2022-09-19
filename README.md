@@ -30,4 +30,4 @@ Currently, i am learning Solidity and RUST. 🤓
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=padrone1225&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&hide=TeX&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=padrone1225&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=padrone1225)](https://git.io/streak-stats)
