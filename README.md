@@ -34,6 +34,8 @@ Currently, i am learning Solidity and RUST. 🤓
 
 <!-- <div align="center"> -->
 
+<img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="30px">
+
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=padrone1225&show_icons=true&theme=github_dark&count_private=true"/> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&layout=compact&langs_count=7&theme=github_dark"/> -->
 
