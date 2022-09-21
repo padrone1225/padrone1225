@@ -9,8 +9,9 @@ Currently, i am learning Solidity and RUST. 🤓
 ## 🛠  Technologies and tools
 
 <div style="display: flex">
-<img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="50px">
-<img align="center" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="50px">
+<img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/T/typescript-logo-27C45A95A6-seeklogo.com.png" width="45px">
 </div>
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
