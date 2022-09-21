@@ -11,7 +11,19 @@ Currently, i am learning Solidity and RUST. 🤓
 <div style="display: flex">
 <img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="45px">
 <img align="center" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" width="45px">
-<img align="center" src="https://seeklogo.com/images/T/typescript-logo-27C45A95A6-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" width="45px">
+<img align="center" src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" width="45px">
+<img align="center" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" width="45px">
+<img align="center" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png
+" width="45px">
 </div>
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
