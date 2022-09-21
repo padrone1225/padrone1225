@@ -22,8 +22,7 @@ Currently, i am learning Solidity and RUST. 🤓
 <img align="center" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" height="45px">
 <img align="center" src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" height="45px">
 <img align="center" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png
-" height="45px">
+<img align="center" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" height="45px">
 </div>
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
