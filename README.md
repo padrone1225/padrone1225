@@ -3,9 +3,7 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!-- Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" /> I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> -->
 </h3>
 
-### I am a FullStack Developer, more into Nextjs, React and TypeScript at the moment.
-
-Currently, I am learning Solidity and RUST. 🤓
+### I am a Full-stack developer using TypeScript, Next, ReactJS and NodeJS, and I am more interested in Blockchain at the moment..
 
 ## 🛠  Technologies and tools
 
