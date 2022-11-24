@@ -3,6 +3,12 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!-- Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" /> I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> -->
 </h3>
 
+ <h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Senior+Frontend+developer;Open+source+contributor)](https://git.io/typing-svg)
+
+</h2>
+
 ### I am a Senior Frontend developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
 
 <br/>
