@@ -19,48 +19,34 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
 <h2 font-weight="bold">Front End</h2>
 <div>
   <div align="left">
+  <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+  <code><img alt="Next" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
+  <code><img alt="Typescript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+  <code><img alt="Vue" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
   <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"></code>
-  <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  <code><img alt="JQuery" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+  <code><img alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img alt="MUI" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  <code><img alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img alt="Webpack" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
+  </div>
+</div>
+<h2 font-weight="bold">Back End</h2>
+<div>
+  <div align="left">
+  <code><img alt="Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+  <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
   </div>
 </div>
 <h2 font-weight="bold">Other</h2>
 <div>
   <div align="left">
-  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
-  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
-  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
+  <code><img alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code><img alt="Github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
+  <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
   </div>
-</div>
-
-<div style="display: flex">
-<img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/R/rust-logo-E6517C759B-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000" height="45px">
-<img align="center" src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" height="45px">
-<img align="center" src="https://seeklogo.com/images/M/mongodb-logo-655F7D542D-seeklogo.com.png" height="45px">
-<img align="center" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" height="45px">
 </div>
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
