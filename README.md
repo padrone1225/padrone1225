@@ -3,9 +3,47 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!-- Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" /> I'm <a href="https://cvdesignr.com/p/6324e0eba60b5" target="_blank" rel="noreferrer">Tenshi Ota</a> -->
 </h3>
 
-### I am a Fontend developer using TypeScript, Next, ReactJS and TainwindCSS, and I am more interested in Blockchain at the moment.
+### I am a Senior Frontend developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
+
+<br/>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
+  <p>
+
+Creative, Passionate, and Efficient Senior Frontend developer and of over 4 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
+
+</p>
 
 ## 🛠  Technologies and tools
+
+<h2 font-weight="bold">Front End</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"></code>
+  <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  </div>
+</div>
+<h2 font-weight="bold">Other</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
+  </div>
+</div>
 
 <div style="display: flex">
 <img align="center" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" height="45px">
