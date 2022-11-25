@@ -20,14 +20,6 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
 
 </p>
 
-<h2 font-weight="bold">Connect Me</h2>
-<div>
-  <div align="left">
-  <code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" href="https://www.leetcode.com/padrone1225"></code>
-  <code><img alt="leetcode" height="50" width="50" src="/images.png" href="https://app.codesignal.com/profile/ahkam1225"></code>
-  </div>
-</div>
-
 ## 🛠  Technologies and tools
 
 <h2 font-weight="bold">Front End</h2>
@@ -52,6 +44,8 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <div align="left">
   <code><img alt="Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
   </div>
 </div>
 <h2 font-weight="bold">Other</h2>
@@ -60,25 +54,17 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <code><img alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img alt="Github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
   <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
+  <code><a href="https://www.leetcode.com/padrone1225"><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"><a></code>
+  <code><img alt="leetcode" height="50" width="50" src="/images.png" href="https://app.codesignal.com/profile/ahkam1225"></code>
   </div>
 </div>
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
+<h2 font-weight="bold">Algorithm</h2>
+<div>
+  <div align="left">
+  <code><a href="https://www.leetcode.com/padrone1225"><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"><a></code>
+  <code><a href="https://app.codesignal.com/profile/ahkam1225"><img alt="leetcode" height="50" width="50" src="/images.png"></a></code>
+  </div>
+</div>
 
 <!-- <div align="center"> -->
 
