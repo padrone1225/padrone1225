@@ -54,15 +54,13 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <code><img alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img alt="Github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
   <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
-  <code><a href="https://www.leetcode.com/padrone1225"><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"><a></code>
-  <code><img alt="leetcode" height="50" width="50" src="/images.png" href="https://app.codesignal.com/profile/ahkam1225"></code>
   </div>
 </div>
 <h2 font-weight="bold">Algorithm</h2>
 <div>
   <div align="left">
-  <code><a href="https://www.leetcode.com/padrone1225"><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"><a></code>
-  <code><a href="https://app.codesignal.com/profile/ahkam1225"><img alt="leetcode" height="50" width="50" src="/images.png"></a></code>
+  <a href="https://www.leetcode.com/padrone1225"><code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></code><a>
+  <a href="https://app.codesignal.com/profile/ahkam1225"><code><img alt="leetcode" height="50" width="50" src="/images.png"></code></a>
   </div>
 </div>
 
