@@ -56,13 +56,13 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
   </div>
 </div>
-<!-- <h2 font-weight="bold">Algorithm</h2>
+<h2 font-weight="bold">Algorithm</h2>
 <div>
   <div align="left">
   <a href="https://www.leetcode.com/padrone1225"><code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></code><a>
   <a href="https://app.codesignal.com/profile/ahkam1225"><code><img alt="leetcode" height="50" width="50" src="/images.png"></code></a>
   </div>
-</div> -->
+</div>
 
 <!-- <div align="center"> -->
 
