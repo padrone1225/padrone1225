@@ -20,6 +20,14 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
 
 </p>
 
+<h2 font-weight="bold">Connect Me</h2>
+<div>
+  <div align="left">
+  <code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" href="https://www.leetcode.com/padrone1225"></code>
+  <code><img alt="leetcode" height="50" width="50" src="/images.png" href="https://app.codesignal.com/profile/ahkam1225"></code>
+  </div>
+</div>
+
 ## 🛠  Technologies and tools
 
 <h2 font-weight="bold">Front End</h2>
