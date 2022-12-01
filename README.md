@@ -56,26 +56,18 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
   </div>
 </div>
-<<<<<<< HEAD
+
 <h2 font-weight="bold">Algorithm</h2>
-=======
- <h2 font-weight="bold">Algorithm</h2>
->>>>>>> 85eb52668e20c5d56ed3af5a5821d70232e018cc
 <div>
   <div align="left">
   <a href="https://www.leetcode.com/padrone1225"><code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></code><a>
   <a href="https://app.codesignal.com/profile/ahkam1225"><code><img alt="leetcode" height="50" width="50" src="/images.png"></code></a>
   </div>
-<<<<<<< HEAD
-  <a href="https://www.hackerrank.com/ahkamjohan"><code><img alt="hackerrank" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"><code></a>
+  <a href="https://www.hackerrank.com/ahkamjohan"><code><img alt="hackerrank" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></code></a>
 </div>
 
-<!-- <div align="center"> -->
-=======
-</div>
 <!--
 <div align="center"> -->
->>>>>>> 85eb52668e20c5d56ed3af5a5821d70232e018cc
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=padrone1225&show_icons=true&theme=github_dark&count_private=true"/> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padrone1225&layout=compact&langs_count=7&theme=github_dark"/> -->
