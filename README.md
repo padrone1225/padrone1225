@@ -62,8 +62,8 @@ Creative, Passionate, and Efficient Senior Frontend developer and of over 4 year
   <div align="left">
   <a href="https://www.leetcode.com/padrone1225"><code><img alt="leetcode" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></code><a>
   <a href="https://app.codesignal.com/profile/ahkam1225"><code><img alt="leetcode" height="50" width="50" src="/images.png"></code></a>
-  </div>
   <a href="https://www.hackerrank.com/ahkamjohan"><code><img alt="hackerrank" height="50" width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"></code></a>
+   </div>
 </div>
 
 <!--
