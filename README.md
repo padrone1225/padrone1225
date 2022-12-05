@@ -5,18 +5,18 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
  <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Junior+Frontend+developer;Open+source+contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Junior+Full+Stack+developer;Open+source+contributor)](https://git.io/typing-svg)
 
 </h2>
 
-### I am a Junior Frontend developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
+### I am a Junior Full-Stack developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
 
 <br/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
 
-Creative, Passionate, and Efficient Junior Frontend developer and of over 4 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
+Creative, Passionate, and Efficient Junior Full-stack developer and of over 4 years in web and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
 
 </p>
 
@@ -25,18 +25,17 @@ Creative, Passionate, and Efficient Junior Frontend developer and of over 4 year
 <h2 font-weight="bold">Front End</h2>
 <div>
   <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="Typescript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
   <code><img alt="React" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
   <code><img alt="Next" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></code>
-  <code><img alt="Typescript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
   <code><img alt="Vue" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
-  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="JQuery" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
   <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
   <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
-  <code><img alt="JQuery" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
   <code><img alt="Bootstrap" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img alt="MUI" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
   <code><img alt="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
-  <code><img alt="Webpack" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
   </div>
 </div>
 <h2 font-weight="bold">Back End</h2>
@@ -44,8 +43,10 @@ Creative, Passionate, and Efficient Junior Frontend developer and of over 4 year
   <div align="left">
   <code><img alt="Node" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
   <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
   <code><img alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+  <code><img alt="GraphQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
   </div>
 </div>
 <h2 font-weight="bold">Other</h2>
@@ -54,6 +55,7 @@ Creative, Passionate, and Efficient Junior Frontend developer and of over 4 year
   <code><img alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
   <code><img alt="Github" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
   <code><img alt="Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/></code>
+  <code><img alt="XD" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg"/></code>
   </div>
 </div>
 
