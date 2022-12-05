@@ -9,7 +9,7 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 </h2>
 
-### I am a Junior Full-Stack developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
+### I am a Junior Full-Stack developer using TypeScript, Next, React, Node and Python, and I'm more interested in Blockchain at the moment.
 
 <br/>
 
@@ -46,7 +46,7 @@ Creative, Passionate, and Efficient Junior Full-stack developer and of over 4 ye
   <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
   <code><img alt="MongoDB" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-  <code><img alt="GraphQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
+  <code><img alt="GraphQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg"></code>
   </div>
 </div>
 <h2 font-weight="bold">Other</h2>
