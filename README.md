@@ -9,7 +9,7 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 </h2>
 
-### I am a Senior Frontend developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
+### I am a Junior Frontend developer using TypeScript, Next, React and Vue, and I'm more interested in Blockchain at the moment.
 
 <br/>
 
