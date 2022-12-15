@@ -5,18 +5,18 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
  <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Junior+Full+Stack+developer;Open+source+contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=Full+Stack+developer;Open+source+contributor)](https://git.io/typing-svg)
 
 </h2>
 
-### I am a Junior Full-Stack developer using TypeScript, Next, React, Node and Python, and I'm more interested in Blockchain at the moment.
+### I am a Full-Stack developer using TypeScript, Next, React, Node and Python, and I'm more interested in Blockchain at the moment.
 
 <br/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
 
-Creative, Passionate, and Efficient Junior Full-stack developer and of over 4 years in web and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
+Creative, Passionate, and Efficient Full-stack developer and of over 5 years in web and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks.
 
 </p>
 
